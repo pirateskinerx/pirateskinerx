@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark&roadmaps=full-stack%2Cbackend%2Capi-design%2Cnodejs)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh)
 <!--
 **pirateskinerx/pirateskinerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
