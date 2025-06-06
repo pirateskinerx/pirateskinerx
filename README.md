@@ -20,7 +20,7 @@
 </p>
 
 <details>
-  <summary><h2 align='center'>Waitt! Do you know this song? xD</h2></summary>
+  <summary align='center'><h2>Waitt! Do you know this song? xD</h2></summary>
   <br>
 
 <p align='center'>
