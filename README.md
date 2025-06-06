@@ -10,7 +10,7 @@
 
 ---
 
-<h2> 🚀 &nbsp;Languages and Tools </h2>
+<h2 align='center'> 🚀 &nbsp;Languages and Tools </h2>
 <!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>  
