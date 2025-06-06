@@ -2,7 +2,7 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh)
 
 <h2> 🚀 &nbsp;Languages and Tools </h2>
-<p align="left">
+<!-- <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
@@ -25,6 +25,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
+</p> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,go,react,nextjs,vue,threejs,nodejs,express,redux,mongodb,prisma,redis,jest,postman,docker,git" alt="Skills" />
+  </a>
 </p>
 <!--
 **pirateskinerx/pirateskinerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
