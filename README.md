@@ -20,11 +20,14 @@
 </p>
 
 <details>
-  <summary><h2>Waitt! Do you know this song? xD</h2></summary>
+  <summary><h2 align='center'>Waitt! Do you know this song? xD</h2></summary>
   <br>
+
+<p align='center'>
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3kcr6e67zb754exby27udxpsq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31j3kcr6e67zb754exby27udxpsq&redirect=true)
 
+</p>
 </details>
 <!--
 **pirateskinerx/pirateskinerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
