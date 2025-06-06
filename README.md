@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh)
+
+<h2> [![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh) </h2>
 
 <h2> 🚀 &nbsp;Languages and Tools </h2>
 <!-- <p align="left">
