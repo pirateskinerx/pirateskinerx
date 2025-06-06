@@ -1,9 +1,14 @@
 <h3 align='center'> Hi there 👋 </h3>
+
+---
+
 <div align='center'>
   
 [![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh) 
 
 </div>
+
+---
 
 <h2> 🚀 &nbsp;Languages and Tools </h2>
 <!-- <p align="left">
