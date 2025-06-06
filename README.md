@@ -10,7 +10,8 @@
 
 ---
 
-<h1 align='center'> 🚀;Languages and Tools </h1>
+<h1 align='center'> 🚀Languages and Tools </h1>
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
