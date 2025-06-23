@@ -15,7 +15,16 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,go,react,nextjs,vue,threejs,nodejs,express,redux,mongodb,prisma,redis,jest,postman,docker,git" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,cs,react,nextjs,threejs,nodejs,express,redux,mongodb,prisma,redis,jest,postman,docker,git" alt="Skills" />
+  </a>
+</p>
+
+<h1 align='center'> 🚀 Currently Learning </h1>
+
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,nuxtjs,vue,angular" alt="Skills" />
   </a>
 </p>
 
