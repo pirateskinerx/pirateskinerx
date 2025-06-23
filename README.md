@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h1 align='center'> 🚀 Currently Learning </h1>
+<h1 align='center'> 👯 Currently Learning </h1>
 
 <br>
 <p align="center">
