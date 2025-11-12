@@ -24,7 +24,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=threejs,gsap" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=threejs" alt="Skills" />
   </a>
 </p>
 
