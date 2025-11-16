@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=threejs" alt="Skills" />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true" alt="Skills" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gsap&titles=true" alt="Skills" />
   </a>
 </p>
 
