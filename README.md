@@ -1,10 +1,31 @@
 <h3 align='center'> Hi there 👋 </h3>
 
 ---
- I'm a Full-Stack Developer and/or Front-End Developer  
- Passionate in Speed loading and Clean UX/UI
+<h2> Let's get know about me </h2>
 
+- I'm a Full-Stack Developer and/or Front-End Developer  
+- Passionate about Speed loading and Clean UX/UI  
+ 
+    *( e.g., A Speed Runner in Path of Exile, and Tends to use a high-speed web browser like Opera and Brave )
+
+ - Current Tech Stack: TypeScript, Next.js, React.js, PostgreSQL, MongoDB
+ - Tools: Docker, Postman, Vercel, Hostinger(depending on the project's size)
+---
+<h2> Currently Working On </h2>
+
+- Struggling with learning Three.js, React Fiber, GSAP for the animated website, and so on.
+- Also learning a new language like C# with .NET CORE
+- Taking an app course on improving my English skills, such as speaking, writing, reading, and grammar
+---
+
+<h2> Fun Fact! </h2>
+
+- I use the Pomodoro Technique rather than using a timer application
+- I love nu-metal/alternative rock music(deftones, korn, foo figther), trap/hip-hop music(travis scott, teezo touchdown)
+- I strongly believe that "consistency always wins" !!
+---
 <div align='center'>
+
   
 [![roadmap.sh](https://roadmap.sh/card/wide/670bf8c7791f57dd60a4405d?variant=dark)](https://roadmap.sh) 
 
