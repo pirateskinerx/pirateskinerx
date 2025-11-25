@@ -1,6 +1,8 @@
 <h3 align='center'> Hi there 👋 </h3>
 
 ---
+<h3 align='center'> I'm Full-Stack Developer and/or Front-End Developer  </h3>
+<h3 align='center'> Passionate in Speed loading and Clean UX/UI</h3>
 
 <div align='center'>
   
